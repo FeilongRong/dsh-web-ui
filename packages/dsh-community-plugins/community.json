@@ -355,5 +355,16 @@
     "descriptionEn": "Real session deletion with trash and restore, archived cleanup and batch delete. Official archive only hides sessions.",
     "repo": "https://github.com/xohmai/dsh-session-delete",
     "category": "utility"
+  },
+  {
+    "id": "dsh-balance-widget",
+    "name": "余额插件",
+    "nameEn": "Balance Widget",
+    "author": "FeilongRong",
+    "description": "DSH Web GUI 侧边栏余额插件：侧边栏底部「余额」按钮弹出面板，实时查询 DeepSeek 账户余额，并提供 MiniMax / 百炼 / SCNet 控制台链接；API Key 仅保存在浏览器本地。",
+    "descriptionEn": "Sidebar balance widget for the DSH Web GUI: a \"余额\" button opens a panel with a live DeepSeek account balance query plus console links for MiniMax, Qwen (百炼) and SCNet; API key stays in browser localStorage.",
+    "repo": "https://github.com/FeilongRong/dsh-balance-widget",
+    "npm": "@feilongrong/dsh-balance-widget",
+    "category": "utility"
   }
 ]
